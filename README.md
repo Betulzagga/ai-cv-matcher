@@ -117,7 +117,3 @@ CV Metni ──► Embedding ──┐
 | `torch` | Tensor işlemleri (cosine similarity) |
 
 ---
-
-## 📄 Lisans
-
-MIT
